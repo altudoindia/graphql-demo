@@ -1,6 +1,6 @@
 # Node modules ignore
-/frontend/node_modules/
-/backend/node_modules/
+frontend/node_modules/
+backend/node_modules/
 
 # Build folders
 dist/
@@ -46,17 +46,17 @@ build/
 # =========================================
 # Frontend (Next.js)
 # =========================================
-/frontend/.next/
-/frontend/out/
-/frontend/.vercel/
-/frontend/.turbo/
+frontend/.next/
+frontend/out/
+frontend/.vercel/
+frontend/.turbo/
 
 # =========================================
 # Backend (Express/MongoDB)
 # =========================================
-/backend/coverage/
-/backend/.nyc_output/
-/backend/debug.log
+backend/coverage/
+backend/.nyc_output/
+backend/debug.log
 
 # =========================================
 # IDE / Editor files
